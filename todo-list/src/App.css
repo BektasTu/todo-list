@@ -1,0 +1,16 @@
+h1 {
+    border: solid 3px black;
+    border-radius: 5px;
+    background-color: #ed872d;
+}
+
+.addButton {
+    margin: 10px;
+}
+
+.addButton:hover {
+    cursor: pointer;
+    box-shadow: 4px 5px 4px black;
+    background-color: #ed872d;
+    border-radius: 5px;
+}
